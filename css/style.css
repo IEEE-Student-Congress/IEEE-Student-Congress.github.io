@@ -336,3 +336,8 @@ p {
 }
 
 .button1 {background-color: #4CAF50;}
+
+.thicc-row {
+    border-top: 5px solid #ddd;
+    border-bottom: 5px solid #ddd;
+}
