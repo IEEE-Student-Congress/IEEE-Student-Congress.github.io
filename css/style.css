@@ -5,6 +5,10 @@
 .logoContainer {
   padding: 0 !important;
 }
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 .ieeeLogo {
   width: 380px;
   margin-top: 12px;
